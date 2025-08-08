@@ -21,7 +21,7 @@ vv
 
 - Curl:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/REPO_OWNER/Vercel-Deployer/HEAD/vercel-deployer.sh -o vv
+curl -fsSL https://raw.githubusercontent.com/hinoki-ai/Vercel-Deployer/HEAD/vercel-deployer.sh -o vv
 chmod +x vv
 ./vv
 ```
